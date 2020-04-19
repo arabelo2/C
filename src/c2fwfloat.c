@@ -1,4 +1,4 @@
-/* This small program converts Celsius to Fahrenheit with float;
+/* This small program converts Celsius to Fahrenheit using float;
    Alexandre Rabelo
    April, 19, 2020   
 */
