@@ -1,4 +1,4 @@
-/* This simplest program is one that copies its input to its output one character at a time.
+/* This simplest program copies its input to its output one character at a time.
    Alexandre RABELO
    April, 18, 2020
 */
