@@ -1,4 +1,4 @@
-/* This small program converts Fahrenheit to Celsius with float;
+/* This small program converts Fahrenheit to Celsius using float;
    Alexandre Rabelo
    April, 19, 2020   
 */
@@ -18,7 +18,7 @@ int main(void){
     fahr = lower;
     while (fahr <= upper){
         celsius = 5.0/9.0*(fahr - 32.0);
-        printf("%3.0f\t\t%6.2f\n", fahr, celsius);
+        printf("%3.0f\t%6.2f\n", fahr, celsius);
         fahr = fahr + step;
     }
 }
