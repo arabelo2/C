@@ -1,4 +1,4 @@
-/* This small program converts Fahrenheit to Celsius with integer;
+/* This small program converts Fahrenheit to Celsius using integer;
    Alexandre Rabelo
    April, 14, 2020   
 */
