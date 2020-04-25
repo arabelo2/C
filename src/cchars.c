@@ -4,6 +4,7 @@
 */
 
 #include <stdio.h>
+
 // Count characters in input
 int main (void){
     double nc;
