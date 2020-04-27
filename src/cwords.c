@@ -12,7 +12,7 @@
 int main() {
     int c, nl, nw, nc, state;
     state = OUT;
-    nl = nw = nc = 0;
+    nl = nw = nc = 0; // Sets all three variables to zero. This is an expression with the value and assignments associated from right to left --> nl = (nw = (nc = 0));
     while ((c = getchar()) != EOF){
         ++nc;
         if (c == '\n')
