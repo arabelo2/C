@@ -16,7 +16,7 @@ int main(){
     return 0;
 }
 
-/* A function definition has this form
+/* A function definition has this form:
    return-type function-name (parameter declarations, if any) {
        declarations
        statements
