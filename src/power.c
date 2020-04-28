@@ -16,7 +16,15 @@ int main(){
     return 0;
 }
 
+/* A function definition has this form
+   return-type function-name (parameter declarations, if any) {
+       declarations
+       statements
+   }
+*/
+
 // Power: raise base to n-th power; n >= 0
+
 int power(int base, int n){
     int i;
     int p;
