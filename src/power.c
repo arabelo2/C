@@ -26,8 +26,7 @@ int main(){
 // Power: raise base to n-th power; n >= 0
 
 int power(int base, int n){
-    int i;
-    int p;
+    int i, p;
 
     p = 1;
     for (i = 1; i <= n; ++i)
